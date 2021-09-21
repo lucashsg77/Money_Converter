@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Conversor de moedas</string>
+    <string name="appName">Conversor de moedas</string>
+    <string name="value">Valor</string>
+    <string name="convertFrom">Converter  de:</string>
+    <string name="to">Para:</string>
+    <string name="convert">Converter</string>
+    <string name="history">Histórico</string>
+    <string name="save">Salvar</string>
+    <string name="saveSuccess">Item salvo com sucesso</string>
+    <string name="finalValue">Valor final:</string>
+    <string name="from">De:</string>
+    <string name="bid">Câmbio:</string>
+</resources>
